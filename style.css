@@ -1,0 +1,26 @@
+html{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.logo{
+	height: 125px;
+}
+h1,h4,h3{
+	font-family: "Lato";
+	font-weight: normal;
+}
+.text-muted{
+	color: #7d97ad;
+}
+hr{
+	background-color: #7d97ad;
+    height: 3px;
+}
+.ft_img{
+	width: auto;
+	height: 200px;
+	margin: auto;
+}
+h4{
+	font-weight: bold;
+}
